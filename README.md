@@ -1,2 +1,2 @@
 # Division-of-Chocolate-Bar
-Sample Problem
+Go through the Problem file and makes a code according to it.
